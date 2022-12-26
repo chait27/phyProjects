@@ -1,2 +1,3 @@
-# phyProjects
-Various projects/lab reports completed during my undergrad degree at UofT
+# Undergrad Projects/Reports
+This repository contains various practical physics reports and papers written in different courses during my  
+undergradudate degree at UofT. 
